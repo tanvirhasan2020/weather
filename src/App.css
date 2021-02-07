@@ -1,0 +1,9 @@
+
+.App{
+  text-align: center;
+  height:750px;
+  font-family: 'Vast Shadow', cursive;
+  background-image: url("https://miro.medium.com/max/1620/1*GsImz-edoeuqCMfKxDus0w.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
